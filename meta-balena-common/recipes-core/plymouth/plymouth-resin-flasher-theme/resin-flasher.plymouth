@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Resin Theme
+Description=Simple theme with white background and logo.
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/resin-flasher
+ScriptFile=/usr/share/plymouth/themes/resin-flasher/resin-flasher.script
